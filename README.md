@@ -15,10 +15,11 @@ Poyecto realizado sobre licencia Apache 2.0
 Funcionalidad
 =================
 La Calculadora-Swing, segun el modo de calculadora tiene diferentes funcionalidades:
-
-    
+   
     -Calculadora Estandar:
         -Operaciones aritmeticas (suma, resta, multiplicación, división).
+        -Cortar, Copiar y Pegar.
+        -Deshacer, Rehacer.
       
     -Calculadora Cientifica:
         -Operaciones de la calculadora estandar añadiendo la potencia y la raiz cuadrada.
@@ -28,3 +29,7 @@ La Calculadora-Swing, segun el modo de calculadora tiene diferentes funcionalida
         -Operaciones de la calculadora estandar (por inplementar).
         -Conversiones entre Octal, Binario, Decimal y Hexadecimal.
         -Tablas de verdad OR, XOR, NOT y AND.
+        
+    -Caluclo de numeros primos
+        -Puedes calcular el eNesimo numero primo.
+    
